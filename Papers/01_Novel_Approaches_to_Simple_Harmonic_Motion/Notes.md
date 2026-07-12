@@ -14,59 +14,66 @@
 
 # Objective
 
-The paper introduces two novel approaches for solving the equation of simple harmonic motion while requiring only limited mathematical background.
+This paper develops methods to solve Simple Harmonic Motion (SHM) using two novel approaches with limited mathematics.
 
 
 # Why was this paper written?
 
-The authors point out that the traditional textbook methods for solving SHM each have certain limitations.
+In textbooks, we solve SHM using three methods.
 
-## Method 1
+## 1. Connection between SHM and Projection of Circular Motion
 
-Represent SHM as the projection of uniform circular motion.
-
-### Drawback
-
-Although this method reproduces the motion correctly, it lacks a true dynamical foundation because the motion is not obtained directly from Newton's laws or the restoring force.
-
-## Method 2
-
-Present the differential equation solution directly and verify that it satisfies the equation.
+A connection between Simple Harmonic Motion and the projection of circular motion on a diameter is established.
 
 ### Drawback
 
-The derivation itself is not shown, so students only verify the final answer instead of learning how it is obtained.
+- Lack of a dynamical foundation.
+- There is no force generating the motion.
+- This approach is non-physical and arbitrary.
 
-## Method 3
+## 2. Differential Equation Method
 
-Solve the differential equation by integration.
+The solution of the differential equation is presented and we only verify it.
 
 ### Drawback
 
-Requires mathematical techniques that many beginning students may not yet know.
+- The equation is not actually solved.
+- It is a "half-baked" approach because only verification is shown.
+
+## 3. Integration Method
+
+The differential equation is solved by integration.
+
+### Drawback
+
+- Requires mathematical techniques.
 
 
 # Physical System
 
-A spring-mass system is considered.
+Consider a spring-mass system with
 
 - Mass = \(m\)
 - Spring constant = \(k\)
-- One end of the spring is fixed.
-- The mass is displaced by a distance \(A\) from equilibrium.
+
+The spring is fixed at one end and connected to the mass at the other end.
+
+The mass is stretched to the right by a distance \(A\).
 
 # First Novel Approach
 
-The displacement between equilibrium and the maximum amplitude is divided into \(N\) equal segments.
+The distance between the equilibrium position and the maximum displacement is divided into \(N\) equal segments.
 
-Within each segment,
+In each segment,
 
-- the acceleration is assumed constant,
-- the average restoring force at the two ends of the segment is used.
+- the mass moves with constant acceleration,
+- the acceleration is calculated using the average of the two forces at the two ends of the segment.
+  
 
-This converts the continuously changing acceleration into a sequence of constant-acceleration motions.
+# My Notes
+
+*(To be continued as I read the paper.)*
 
 # Status
 
 Currently Reading
-
