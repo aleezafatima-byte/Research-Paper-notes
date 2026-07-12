@@ -38,7 +38,7 @@ The solution of the differential equation is presented and we only verify it.
 ### Drawback
 
 - The equation is not actually solved.
-- It is a "half-baked" approach because only verification is shown.
+- The derivation of the solution is omitted; only verification of the final solution is presented.
 
 ## 3. Integration Method
 
