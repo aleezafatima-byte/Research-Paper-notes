@@ -17,8 +17,6 @@
 
 The paper introduces two novel approaches for solving the equation of simple harmonic motion while requiring only limited mathematical background.
 
----
-
 # Why was this paper written?
 
 The authors point out that the traditional textbook methods for solving SHM each have certain limitations.
@@ -31,8 +29,6 @@ Represent SHM as the projection of uniform circular motion.
 
 Although this method reproduces the motion correctly, it lacks a true dynamical foundation because the motion is not obtained directly from Newton's laws or the restoring force.
 
----
-
 ## Method 2
 
 Present the differential equation solution directly and verify that it satisfies the equation.
@@ -41,8 +37,6 @@ Present the differential equation solution directly and verify that it satisfies
 
 The derivation itself is not shown, so students only verify the final answer instead of learning how it is obtained.
 
----
-
 ## Method 3
 
 Solve the differential equation by integration.
@@ -50,8 +44,6 @@ Solve the differential equation by integration.
 ### Drawback
 
 Requires mathematical techniques that many beginning students may not yet know.
-
----
 
 # Physical System
 
