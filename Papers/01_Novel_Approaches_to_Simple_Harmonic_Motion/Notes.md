@@ -11,8 +11,6 @@
 
 2023
 
----
-
 # Objective
 
 The paper introduces two novel approaches for solving the equation of simple harmonic motion while requiring only limited mathematical background.
@@ -54,8 +52,6 @@ A spring-mass system is considered.
 - One end of the spring is fixed.
 - The mass is displaced by a distance \(A\) from equilibrium.
 
----
-
 # First Novel Approach
 
 The displacement between equilibrium and the maximum amplitude is divided into \(N\) equal segments.
@@ -66,8 +62,6 @@ Within each segment,
 - the average restoring force at the two ends of the segment is used.
 
 This converts the continuously changing acceleration into a sequence of constant-acceleration motions.
-
----
 
 
 # Status
